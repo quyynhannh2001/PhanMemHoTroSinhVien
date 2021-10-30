@@ -40,9 +40,9 @@
 		<div class="col-md-8" id="slideshow">
       <a href="https://www.bkacad.com/">
         <div class="slide-wrapper">
-          <div class="slide"><img src="https://scontent.fhan2-4.fna.fbcdn.net/v/t1.6435-9/235690982_1225045894611028_2377232423050820085_n.jpg?_nc_cat=103&ccb=1-5&_nc_sid=730e14&_nc_ohc=XXWaasgADGYAX808SkV&_nc_ht=scontent.fhan2-4.fna&oh=200a260c0eb80ac465007b581c100994&oe=614AF42F"></div>
-          <div class="slide"><img src="https://scontent.fhan2-2.fna.fbcdn.net/v/t1.6435-9/234743472_1225043744611243_647252469263937682_n.jpg?_nc_cat=110&ccb=1-5&_nc_sid=730e14&_nc_ohc=nLkXerVPxfwAX_Nnqz8&_nc_ht=scontent.fhan2-2.fna&oh=58d1e7044eec1420864fd6c6be2b05ca&oe=614886E9"></div>
-          <div class="slide"><img src="https://scontent.fhan2-4.fna.fbcdn.net/v/t1.6435-9/239609918_1225040017944949_3784272063282569901_n.jpg?_nc_cat=105&ccb=1-5&_nc_sid=730e14&_nc_ohc=YRHd8ytdaskAX8ZW2Ri&_nc_ht=scontent.fhan2-4.fna&oh=a98f7c4aa7ab1727abc46d5aa256a828&oe=6147A3AF"></div>
+          <div class="slide"><img src="https://scontent.fhan14-2.fna.fbcdn.net/v/t1.15752-9/248061315_1041617803079295_177818203714086855_n.jpg?_nc_cat=109&ccb=1-5&_nc_sid=ae9488&_nc_ohc=cIR8jb7uiDwAX9TVBAy&_nc_ht=scontent.fhan14-2.fna&oh=d0b4858c5c7c604c8a39a4e0cea23c99&oe=61A309E5"></div>
+          <div class="slide"><img src="https://scontent.fhan14-1.fna.fbcdn.net/v/t1.15752-9/250008452_881223392579711_3291334977839721241_n.jpg?_nc_cat=107&ccb=1-5&_nc_sid=ae9488&_nc_ohc=8FWr5ZGHjTIAX8HaECk&_nc_ht=scontent.fhan14-1.fna&oh=4bafea92827f6adbc703159e3deb2a38&oe=61A34C8D"></div>
+          <div class="slide"><img src="https://scontent.fhan14-1.fna.fbcdn.net/v/t1.15752-9/247713731_296462675465488_4035887486510111430_n.jpg?_nc_cat=101&ccb=1-5&_nc_sid=ae9488&_nc_ohc=-s8e7WiOEIUAX9g-1eB&_nc_ht=scontent.fhan14-1.fna&oh=4482b58ecd5aad5c124647cbcb665891&oe=61A13E4D"></div>
           
           
         </div>
